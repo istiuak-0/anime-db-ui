@@ -11,7 +11,6 @@ A simple Vue 3 app built with TypeScript and Vite. Users can search for anime by
 - [Vite](https://vitejs.dev/)
 - [Jikan API](https://jikan.moe/) – for anime data
 - [pnpm](https://pnpm.io/) – for dependency management
-- [Tailwind CSS](https://tailwindcss.com/) *(optional, include only if you're using it)*
 
 ---
 
@@ -29,7 +28,6 @@ A simple Vue 3 app built with TypeScript and Vite. Users can search for anime by
 
 - [Visual Studio Code](https://code.visualstudio.com/)
 - [Volar Extension](https://marketplace.visualstudio.com/items?itemName=Vue.volar)  
-  (Disable Vetur if it's installed)
 
 ---
 
